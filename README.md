@@ -26,8 +26,6 @@ https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
 - CNN-based classifier
 - Binary classification
 - Trained on labeled face images
-## 📸 Results
-![Face Mask Detection Output](images/output.png)
 
 ## ▶️ How to Run
 ```bash
