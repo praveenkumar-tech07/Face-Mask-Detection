@@ -30,4 +30,4 @@ https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
 ## ▶️ How to Run
 ```bash
 pip install -r requirements.txt
-python face_mask_detection.py
+python Face_Mask_Detection_with_Machine_Learningg.ipynb
